@@ -3,9 +3,11 @@ body {
   padding: 0 0 0 0;
   font-family: sans-serif;
 }
-.clickable {
-cursor: pointer;
-}
+
 .navbar {
   margin-bottom: 30px;
+}
+
+.clickable {
+  cursor: pointer;
 }
