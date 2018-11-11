@@ -14,6 +14,7 @@ import {NavLink, Link} from 'react-router-dom';
       <NavLink className="nav-item nav-link" to="/customer">Customers</NavLink>
       <NavLink className="nav-item nav-link" to="/rentals">Rentals</NavLink>
       <NavLink className="nav-item nav-link" to="/login">Login</NavLink>
+      <NavLink className="nav-item nav-link" to="/registerForm">Register</NavLink>
 
     </div>
   </div>
